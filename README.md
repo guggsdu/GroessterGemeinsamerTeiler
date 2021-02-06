@@ -1,7 +1,7 @@
 # GroessterGemeinsamerTeiler / Greatest Common Divisor
 Berechnung des GGT durch ein windows batch file
 
-Verwendet wir der Euklidischer Algorithmus
+Verwendet wird der Euklidische Algorithmus
 
 in Pseudocode:
 wenn a = 0
